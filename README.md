@@ -872,3 +872,5 @@ Useful list of Machine Learning And Statistics Repositories
 
 [zipline](https://github.com/wavelets/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 zipline - Zipline, a Pythonic Algorithmic Trading Library
+
+Thanks Joseph Misiti
